@@ -255,5 +255,19 @@ footer {
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
-    clear: left;
+   
+}
+
+#cover-text {
+    width: 0;
+
+}
+#club-ethos {
+    width: 90%;
+    height:1200px;
+    margin: 0 auto;
+
+}
+.left-about-heading .right-about-heading {
+    width: inherit;
 }
